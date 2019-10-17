@@ -7,9 +7,12 @@ In conventional vending machines money validation and returning change is a big 
 Each member were assigned with a specific aspect of the system, yet everyone was involved in all the tasks associated with building it. The members link:
 
 Ali Muhit Mustaquim: https://www.linkedin.com/in/ali-muhit-mustaquim-880652193/
+
 Ishat Raihan Jamil: https://www.linkedin.com/in/ishat-raihan-jamil
+
 Monoranjan Debnath Rony: https://www.linkedin.com/in/monoranjan-rony-58128113a/
+
 Aminul Islam Olin: https://www.linkedin.com/in/aminul-islam-olin-36bb91192
 
-3rd year Electro Mechanical Project
+Third year Electro Mechanical Project
 Mechanical Engineering students of Bangladesh University of Engineering and Technology (BUET)
