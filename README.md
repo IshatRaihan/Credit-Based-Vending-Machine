@@ -6,9 +6,9 @@ The main purpose of this project was to create a vending machine which could pro
 In conventional vending machines money validation and returning change is a big problem. To add to that, these machines do not accept the notes if they are torn or is an bad shape. To get rid of this, we made our vending machine to sell products on credit. Records are all kept in a server and email is sent as a purchase receipt after every delivery.
 Each member were assigned with a specific aspect of the system, yet everyone was involved in all the tasks associated with building it. The members link:
 
-Ali Muhit Mustaquim: https://www.linkedin.com/in/ali-muhit-mustaquim-880652193/
-
 Ishat Raihan Jamil: https://www.linkedin.com/in/ishat-raihan-jamil
+
+Ali Muhit Mustaquim: https://www.linkedin.com/in/ali-muhit-mustaquim-880652193/
 
 Monoranjan Debnath Rony: https://www.linkedin.com/in/monoranjan-rony-58128113a/
 
