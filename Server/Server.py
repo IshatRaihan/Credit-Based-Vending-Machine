@@ -83,8 +83,8 @@ while True:
         TEXT = "Credit Based Vending Machine\n\n\nPurchase Receipt:\n\nPurchased by: " + ID + "\nItem: " + Item + "\nAmount: Tk." + Price + "\n\n\nTotal dues left: Tk." + str(Dues) + "\nFor any sort of queries, feel free to contact us. Don't forget to clear your dues! Happy Snacking!\n\nThis wasn't you?\nContact operators immediately at: cb.vending.machine@gmail.com"
 
         # Gmail Sign In
-        gmail_sender = 'cb.vending.machine@gmail.com'
-        gmail_passwd = '331331CBVM'
+        gmail_sender = '*****************@gmail.com'    #Insert the machine's email address
+        gmail_passwd = '**********'                     #Insert the password of the email account
 
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.ehlo()
