@@ -2,9 +2,13 @@
 See how it works: https://youtu.be/rubB_oXeyKg
 
 DOI: 10.13140/RG.2.2.31221.50408
+
 Poster: https://lnkd.in/gYPCkJ3
+
 Technical Report: https://lnkd.in/gmFDkrv
+
 Featured in The Daily Star: https://www.thedailystar.net/star-youth/news/credit-based-vending-machine-1825669
+
 
 The main purpose of this project was to create a vending machine that could provide different types of snacks and items to the people on credit, simply and quickly. It is often difficult to get snacks in between classes when someone feels hungry. Going to the cafeteria would cost a lot of time which may not be available on a busy day. To solve such a problem, we have come up with a solution that would allow anyone to use their student ID card as a credit card, to purchase items efficiently.
 
