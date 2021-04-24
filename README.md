@@ -1,5 +1,5 @@
 # Credit-Based-Vending-Machine
-See how it works: https://youtu.be/rubB_oXeyKg
+See how it works, YouTube:  https://youtu.be/rubB_oXeyKg
 
 DOI: 10.13140/RG.2.2.31221.50408
 
